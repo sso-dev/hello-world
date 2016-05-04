@@ -1,5 +1,5 @@
 # hello-world
-This is a Hello World repo.
+This is a Hello World repository.
 
 sso-dev
 ###
